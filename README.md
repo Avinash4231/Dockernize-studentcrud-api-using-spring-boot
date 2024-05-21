@@ -1,5 +1,8 @@
 # Student CRUD RestAPi
 
+## Overview
+StudentCRUD API is a Spring Boot application that provides a RESTful API for managing student records. This project demonstrates basic CRUD (Create, Read, Update, Delete) operations and is Dockerized for easy deployment.
+
 ## Demo Video
 https://github.com/Avinash4231/Dockernize-studentcrud-api-using-spring-boot/assets/119235391/ba3a9ce9-0a6d-45b5-8685-31cde5cd8740
 
