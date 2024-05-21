@@ -1,3 +1,9 @@
+# Student CRUD RestAPi
+
+## Demo Video
+https://github.com/Avinash4231/Dockernize-studentcrud-api-using-spring-boot/assets/119235391/ba3a9ce9-0a6d-45b5-8685-31cde5cd8740
+
+
 #### Prerequisite
 
 Installed: Docker, Java 1.8, Maven 3.x
@@ -40,10 +46,6 @@ for test the running docker-compose
 $ docker-compose ps
 ```
 
-
-## Demo Video
-
-https://github.com/Avinash4231/Dockernize-studentcrud-api-using-spring-boot/assets/119235391/ba3a9ce9-0a6d-45b5-8685-31cde5cd8740
 
 
 ​    
